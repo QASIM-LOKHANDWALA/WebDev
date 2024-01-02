@@ -1,45 +1,45 @@
 const user1 = {
-    firstName: "Qasim",
+    firstName: "A",
     age: 17,
     gender: "male"
 }
 const user2 = {
-    firstName: "Shabbir",
-    age: 14,
+    firstName: "B",
+    age: 18,
     gender: "male"
 }
 const user3 = {
-    firstName: "Hussein",
-    age: 45,
+    firstName: "C",
+    age: 19,
     gender: "male"
 }
 const user4 = {
-    firstName: "Zainab",
-    age: 39,
-    gender: "female"
+    firstName: "D",
+    age: 20,
+    gender: "male"
 }
 const people = [user1,user2,user3,user4];
 
 const users = [{
-    firstName: "Qasim",
+    firstName: "X",
     age: 17,
     gender: "male",
     address: {
-        houseName: "Hilltop Complex",
-        houseNumber: 103,
-        street: "M.G Road"
+        houseName: "Random Appartment",
+        houseNumber: xx12,
+        street: "Unknown Street"
     }
 },{
-    firstName: "Shabbir",
-    age: 14,
-    gender: "male"
+    firstName: "Y",
+    age: 18,
+    gender: "female"
 },{
-    firstName: "Hussein",
-    age: 45,
-    gender: "male"
+    firstName: "Z",
+    age: 19,
+    gender: "female"
 },{
-    firstName: "Zainab",
-    age: 39,
+    firstName: "W",
+    age: 20,
     gender: "female"
 }]
 

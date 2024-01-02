@@ -1,5 +1,5 @@
-// const people = ["QASIM","SHABBIR","HUSSEIN","ZAINAB"];
-// const ages = [17,14,45,39];
+// const people = ["d","c","b","a"];
+// const ages = [17,18,19,20];
 
 // for(let i=0 ; i<people.length ; i++){
 //     if(ages[i]>=18){
