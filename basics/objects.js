@@ -26,7 +26,7 @@ const users = [{
     gender: "male",
     address: {
         houseName: "Random Appartment",
-        houseNumber: xx12,
+        houseNumber: 12,
         street: "Unknown Street"
     }
 },{
